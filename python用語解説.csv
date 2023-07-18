@@ -1,0 +1,18 @@
+import  別のモジュールでインストールされたものをそのパイソンのコードに取り込むためのコマンドです。
+GAIN
+PIN
+def setup():
+GPIO.xxxx
+values = [0]*100
+def loop():
+while true():
+for i in range(100)
+if __name__ = '__main__'
+setup()
+try:
+destroy()
+
+基本構文
+xxxx():
+  aaaa  ←このように、~():とついた後は、インデント、というスペースのようなものが空きます。インデントというのは、入れ子構造の、切れ目のようなものです。
+  bbbb
