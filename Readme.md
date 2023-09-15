@@ -27,4 +27,5 @@
 ## 出典
 
 WayinTop : https://github.com/WayinTop/Automatic-Plant-Watering-System-Tutorial.git
+
 Adafruit : https://github.com/adafruit/Adafruit_Python_ADS1x15.git
