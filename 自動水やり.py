@@ -1,3 +1,4 @@
+# ©︎ https://github.com/WayinTop/Automatic-Plant-Watering-System-Tutorial/blob/master/Code/water.py
 # 必要なパッケージをインポートします。
 import RPi.GPIO as GPIO
 import time
