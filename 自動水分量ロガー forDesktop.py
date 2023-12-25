@@ -15,7 +15,7 @@ def main():
     while True:
         value = adc.read_adc(0, gain=GAIN)
         log_sensor_value(value)
-        time.sleep(600)  # 何秒ごとに保存するか秒単位で書き換えてください。
+        time.sleep(2)  # 何秒ごとに保存するか秒単位で書き換えてください。
 
 if __name__ == '__main__':
     try:

@@ -1,5 +1,3 @@
-# ©︎ https://github.com/WayinTop/Automatic-Plant-Watering-System-Tutorial/blob/master/Code/water.py
-# 必要なパッケージをインポートします。
 import RPi.GPIO as GPIO
 import time
 import Adafruit_ADS1x15
@@ -9,7 +7,6 @@ GAIN = 1
 PIN = 7
 
 # GPIOのピンを設定します。
-
 
 def setup():
     GPIO.setmode(GPIO.BOARD)
